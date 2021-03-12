@@ -1,0 +1,2 @@
+# autoUI
+pytest+selenium
