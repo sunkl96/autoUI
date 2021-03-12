@@ -1,0 +1,55 @@
+INFO	2021-03-01 11:40:42,364	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-01 11:40:43,323	[webpage.py:64]	输入文本：seleniumxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+INFO	2021-03-01 11:40:45,390	[webpage.py:70]	点击元素：('id', 'su')
+INFO	2021-03-01 11:40:45,426	[test_search.py:23]	<re.Match object; span=(404, 412), match='selenium'>
+INFO	2021-03-01 11:40:45,636	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-01 11:40:46,250	[webpage.py:64]	输入文本：selenium
+INFO	2021-03-01 11:40:47,405	[test_search.py:30]	['selenium是什么意思', 'selenium自动化测试框架', 'selenium python', 'selenium定位元素的方法', 'selenium硒片的功效', 'selenium max是什么药', 'selenium自动化测试教程', 'selenium webdriver', 'selenium元素定位', 'selenium关闭弹出的窗口']
+INFO	2021-03-01 11:44:43,794	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-01 11:44:44,760	[webpage.py:64]	输入文本：seleniumxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+INFO	2021-03-01 11:44:46,818	[webpage.py:70]	点击元素：('id', 'su')
+INFO	2021-03-01 11:44:46,885	[test_search.py:23]	<re.Match object; span=(404, 412), match='selenium'>
+INFO	2021-03-01 11:44:47,080	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-01 11:44:47,709	[webpage.py:64]	输入文本：selenium
+INFO	2021-03-01 11:44:48,840	[test_search.py:30]	['selenium是什么意思', 'selenium自动化测试框架', 'selenium python', 'selenium定位元素的方法', 'selenium硒片的功效', 'selenium max是什么药', 'selenium自动化测试教程', 'selenium webdriver', 'selenium元素定位', 'selenium关闭弹出的窗口']
+INFO	2021-03-01 11:45:35,101	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-01 11:45:36,052	[webpage.py:64]	输入文本：seleniumxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+INFO	2021-03-01 11:45:38,136	[webpage.py:70]	点击元素：('id', 'su')
+INFO	2021-03-01 11:45:38,186	[test_search.py:25]	<re.Match object; span=(404, 412), match='selenium'>
+INFO	2021-03-01 11:45:47,578	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-01 11:45:48,228	[webpage.py:64]	输入文本：selenium
+INFO	2021-03-05 16:36:52,993	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-05 16:36:53,954	[webpage.py:64]	输入文本：seleniumxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+INFO	2021-03-05 16:36:56,041	[webpage.py:70]	点击元素：('id', 'su')
+INFO	2021-03-05 16:36:56,079	[test_search.py:25]	<re.Match object; span=(404, 412), match='selenium'>
+INFO	2021-03-05 16:37:05,277	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-05 16:37:05,900	[webpage.py:64]	输入文本：selenium
+INFO	2021-03-05 16:37:07,047	[test_search.py:33]	['selenium是什么意思', 'selenium自动化测试框架', 'selenium定位元素的方法', 'selenium硒片的功效', 'selenium max', 'selenium原理', 'selenium面试题', 'selenium鼠标悬停', 'selenium max是什么药', 'selenium webdriver']
+INFO	2021-03-05 16:42:26,684	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-05 16:42:27,319	[webpage.py:64]	输入文本：selenium
+INFO	2021-03-05 16:42:29,393	[webpage.py:70]	点击元素：('id', 'su')
+INFO	2021-03-05 16:42:29,461	[test_search.py:28]	<re.Match object; span=(404, 412), match='selenium'>
+INFO	2021-03-05 16:42:38,704	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-05 16:42:39,352	[webpage.py:64]	输入文本：selenium
+INFO	2021-03-05 16:42:40,497	[test_search.py:37]	['selenium', 'selenium是什么意思', 'selenium自动化测试框架', 'selenium python', 'selenium定位元素的方法', 'selenium硒片的功效', 'selenium max', 'selenium原理', 'selenium元素定位', 'selenium面试题']
+INFO	2021-03-05 16:46:18,874	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-05 16:46:19,503	[webpage.py:64]	输入文本：selenium
+INFO	2021-03-05 16:46:21,565	[webpage.py:70]	点击元素：('id', 'su')
+INFO	2021-03-05 16:46:21,610	[test_search.py:28]	<re.Match object; span=(404, 412), match='selenium'>
+INFO	2021-03-05 16:46:30,840	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-05 16:46:31,456	[webpage.py:64]	输入文本：selenium
+INFO	2021-03-05 16:46:32,597	[test_search.py:37]	['selenium', 'selenium是什么意思', 'selenium自动化测试框架', 'selenium python', 'selenium定位元素的方法', 'selenium硒片的功效', 'selenium max', 'selenium原理', 'selenium元素定位', 'selenium面试题']
+INFO	2021-03-05 16:59:37,797	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-05 16:59:38,435	[webpage.py:64]	输入文本：selenium
+INFO	2021-03-05 16:59:40,495	[webpage.py:70]	点击元素：('id', 'su')
+INFO	2021-03-05 16:59:40,539	[test_search.py:28]	<re.Match object; span=(404, 412), match='selenium'>
+INFO	2021-03-05 16:59:49,783	[webpage.py:32]	打开网页：https://www.baidu.com
+INFO	2021-03-05 16:59:50,417	[webpage.py:64]	输入文本：selenium
+INFO	2021-03-05 16:59:51,553	[test_search.py:37]	['selenium', 'selenium是什么意思', 'selenium自动化测试框架', 'selenium python', 'selenium定位元素的方法', 'selenium硒片的功效', 'selenium max', 'selenium原理', 'selenium元素定位', 'selenium面试题']
+INFO	2021-03-05 17:48:37,000	[webpage.py:36]	打开网页：https://www.baidu.com
+INFO	2021-03-05 17:48:37,639	[webpage.py:68]	输入文本：selenium
+INFO	2021-03-05 17:48:39,696	[webpage.py:74]	点击元素：('id', 'su')
+INFO	2021-03-05 17:48:39,744	[test_search.py:28]	<re.Match object; span=(547, 555), match='selenium'>
+INFO	2021-03-05 17:48:48,982	[webpage.py:36]	打开网页：https://www.baidu.com
+INFO	2021-03-05 17:48:49,622	[webpage.py:68]	输入文本：selenium
+INFO	2021-03-05 17:48:50,749	[test_search.py:37]	['selenium', 'selenium是什么意思', 'selenium自动化测试框架', 'selenium python', 'selenium定位元素的方法', 'selenium硒片的功效', 'selenium max', 'selenium原理', 'selenium元素定位', 'selenium面试题']
