@@ -91,8 +91,8 @@ def pytest_configure(config):
 
 def pytest_html_results_summary(prefix, summary, postfix):
     # prefix.clear() # 清空summary中的内容
-    prefix.extend([html.p("所属部门: XX公司测试部")])
-    prefix.extend([html.p("测试执行人: 随风挥手")])
+    prefix.extend([html.p("所属部门: 测试")])
+    prefix.extend([html.p("测试执行人: skl")])
 
 
 def _capture_screenshot():
